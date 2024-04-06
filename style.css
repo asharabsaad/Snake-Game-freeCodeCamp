@@ -38,7 +38,7 @@ body,
 
 #instruction-text{
     position: absolute;
-    top: 60px;
+    top: 560px;
     color: #333;
     width: 300px;
     text-transform: capitalize;
@@ -72,6 +72,7 @@ body,
 .food{
     background-color: #dedede;
     border: #999 5px solid;
+    border-radius: 10px;
 }
 
 #logo{
